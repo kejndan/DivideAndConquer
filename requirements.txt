@@ -1,0 +1,12 @@
+faiss-gpu        1.6.1
+tensorboardX 	 2.1
+numpy        	 1.18.5
+torch 		 	 1.5.1
+torchvision 	 0.6.0a0+35d732a
+Pillow 		 	 7.2.0
+scipy 		 	 1.4.1
+sklearn 	 	 0.23.1
+matplotlib 	 	 3.2.1
+json 		 	 2.0.9
+warmup_scheduler 0.3.2
+mlflow 		 	 1.10.0
